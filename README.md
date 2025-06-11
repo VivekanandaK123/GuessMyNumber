@@ -10,5 +10,5 @@ between 1 and 20 with as few attempts as possible!
 5. Press Again! to restart the game with a new number.
 <br>
 
-[Click here to play the game] (https://guess-my-number-usingjs.netlify.app)
+[Click here to play the game](https://guess-my-number-usingjs.netlify.app)
 
