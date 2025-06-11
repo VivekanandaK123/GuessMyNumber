@@ -8,4 +8,7 @@ between 1 and 20 with as few attempts as possible!
 3. Get hints if your guess is too high or too low.
 4. Try to beat your high score!
 5. Press Again! to restart the game with a new number.
+<br>
+
+[Click here to play the game] (https://guess-my-number-usingjs.netlify.app/)
 
